@@ -1,5 +1,5 @@
 module ShortenUrl
-  module JetFuel
+  class JetFuel
     def initialize(protocol_and_host)
       @protocol_and_host = protocol_and_host
     end
